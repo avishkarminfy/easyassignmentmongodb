@@ -1,3 +1,7 @@
+# Inserting Data:
+<img width="849" alt="image" src="https://github.com/user-attachments/assets/b3ba755b-419f-4650-afd3-c69a221f31c7" />
+
+
 # Easy Assignment Mongodb<br></br>
 1. List All Products in the "Electronics" Category:<br></br>
 # Command:<br></br>
