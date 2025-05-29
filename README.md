@@ -105,9 +105,9 @@ count: { $sum: 1 }<br></br>
 }<br></br>
 ])<br></br>
 <br></br>
-# Output Screenshot:<br></br>
-&lt;img width="637" alt="image" src="https://github.com/user-attachments/assets/19a9761e-0bc0-4ce0-96e1-28a3f4f8ba62" /&gt;<br></br>
-<br></br>
+# Output Screenshot:
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/8b700d1f-5490-4800-9ed7-9921d3a20761" />
+
 # 3. Product Names and Prices, Sorted by Price (Descending):<br></br>
 # Command:<br></br>
 db.products.aggregate([<br></br>
